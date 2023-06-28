@@ -24,11 +24,6 @@ BaselineOfMySQL >> baseline: spec [
 			]
 ]
 
-{ #category : #baselines }
-BaselineOfMySQL >> projectClass [
-
-	^ MetacelloCypressBaselineProject
-]
 
 { #category : #baselines }
 BaselineOfMySQL >> setUpDependencies: spec [
